@@ -1,0 +1,5 @@
+SQLAlchemy==2.0.30
+Flask==3.0.3
+Flask-Cors==4.0.1
+Flask-Executor==1.0.0
+flask-mysql-connector==1.1.0
