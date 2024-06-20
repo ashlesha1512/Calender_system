@@ -55,4 +55,8 @@ curl --location 'http://127.0.0.1:8000///schedule_meeting' \
     "participants" : [1,2]
 }'
 
+   4. For run streamlit app :
+      streamlit run streamlit_app.py
+
+
 
